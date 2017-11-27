@@ -143,7 +143,7 @@ public static void main( String[] args ) throws Exception {
 ```
 
 To finish, we need the missing method. In it, we'll use `WebAppContext`-class that 
-at the end just is AbstractServlet:
+at the end just is an AbstractServlet:
 ```java
 // App.java
 private static void setWebappServlet(Server server) {
