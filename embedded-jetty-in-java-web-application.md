@@ -10,3 +10,4 @@ The following tutorial is a more of a transcript of my video “...”.
 * Create a maven module for the web application that build the war file.
 * Add webapp (.war) support into the server modul.
 
+https://youtu.be/rBcwbsEFcVI 
