@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b0c5e1a-c538-4466-aa79-bd5dbd5dcc3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embedded-jetty-in-java-web-application.md" afterPath="$PROJECT_DIR$/embedded-jetty-in-java-web-application.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,17 +17,17 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="embedded-jetty-in-java-web-application.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="embedded-jetty-in-java-web-application.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/embedded-jetty-in-java-web-application.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="874">
-                <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="3" selection-end-line="160" selection-end-column="39" />
+              <first_editor relative-caret-position="742">
+                <caret line="158" column="4" lean-forward="false" selection-start-line="158" selection-start-column="4" selection-end-line="158" selection-end-column="4" />
                 <folding>
-                  <marker date="1511816643334" expanded="true" signature="1319:1717" ph="..." />
-                  <marker date="1511816643334" expanded="true" signature="1520:1717" ph="..." />
-                  <marker date="1511816643334" expanded="true" signature="2230:2269" ph="..." />
-                  <marker date="1511816643334" expanded="true" signature="3495:3615" ph="{...}" />
+                  <marker date="1511816852415" expanded="true" signature="1319:1717" ph="..." />
+                  <marker date="1511816852415" expanded="true" signature="1520:1717" ph="..." />
+                  <marker date="1511816852415" expanded="true" signature="2230:2269" ph="..." />
+                  <marker date="1511816852415" expanded="true" signature="3495:3615" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -35,7 +35,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -61,8 +61,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/embedded-jetty-in-java-web-application.md" />
         <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/embedded-jetty-in-java-web-application.md" />
       </list>
     </option>
   </component>
@@ -217,12 +217,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511779322943</updated>
-      <workItem from="1511779324505" duration="10722000" />
+      <workItem from="1511779324505" duration="10828000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10722000" />
+    <option name="totallyTimeSpent" value="10828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -269,28 +269,28 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/embedded-jetty-in-java-web-application.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="874">
-            <caret line="160" column="0" lean-forward="false" selection-start-line="160" selection-start-column="3" selection-end-line="160" selection-end-column="39" />
-            <folding>
-              <marker date="1511816643334" expanded="true" signature="1319:1717" ph="..." />
-              <marker date="1511816643334" expanded="true" signature="1520:1717" ph="..." />
-              <marker date="1511816643334" expanded="true" signature="2230:2269" ph="..." />
-              <marker date="1511816643334" expanded="true" signature="3495:3615" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="66">
             <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
             <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/embedded-jetty-in-java-web-application.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="742">
+            <caret line="158" column="4" lean-forward="false" selection-start-line="158" selection-start-column="4" selection-end-line="158" selection-end-column="4" />
+            <folding>
+              <marker date="1511816852415" expanded="true" signature="1319:1717" ph="..." />
+              <marker date="1511816852415" expanded="true" signature="1520:1717" ph="..." />
+              <marker date="1511816852415" expanded="true" signature="2230:2269" ph="..." />
+              <marker date="1511816852415" expanded="true" signature="3495:3615" ph="{...}" />
+            </folding>
           </first_editor>
           <second_editor />
         </state>
