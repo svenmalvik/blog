@@ -21,9 +21,11 @@
         <entry file="file://$PROJECT_DIR$/embedded-jetty-in-java-web-application.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="528">
-                <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-                <folding />
+              <first_editor relative-caret-position="418">
+                <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+                <folding>
+                  <marker date="1511780989116" expanded="true" signature="1291:1659" ph="..." />
+                </folding>
               </first_editor>
               <second_editor />
             </state>
@@ -198,12 +200,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511779322943</updated>
-      <workItem from="1511779324505" duration="1244000" />
+      <workItem from="1511779324505" duration="1358000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1244000" />
+    <option name="totallyTimeSpent" value="1358000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -253,9 +255,11 @@
     <entry file="file://$PROJECT_DIR$/embedded-jetty-in-java-web-application.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="528">
-            <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-            <folding />
+          <first_editor relative-caret-position="418">
+            <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <folding>
+              <marker date="1511780989116" expanded="true" signature="1291:1659" ph="..." />
+            </folding>
           </first_editor>
           <second_editor />
         </state>

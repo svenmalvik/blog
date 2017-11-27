@@ -17,8 +17,7 @@ The first job you've to do is to open your IDE and create a new maven project.
 In my case I'm going for maven 3.3.9. When done you might motice a source (src) folder 
 that you can delete since we're going for a multi modul project. You don't need to modify the root pom.xml yet.
 
-[source,xml]
-´´´
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
@@ -30,7 +29,7 @@ that you can delete since we're going for a multi modul project. You don't need 
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
 </project>
-´´´
+```
 
 ### Create a maven module for the server.
 
