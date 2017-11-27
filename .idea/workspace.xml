@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b0c5e1a-c538-4466-aa79-bd5dbd5dcc3e" name="Default" comment="" />
+    <list default="true" id="1b0c5e1a-c538-4466-aa79-bd5dbd5dcc3e" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embedded-jetty-in-java-web-application.md" afterPath="$PROJECT_DIR$/embedded-jetty-in-java-web-application.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,12 +22,12 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="660">
-                <caret line="114" column="79" lean-forward="false" selection-start-line="114" selection-start-column="79" selection-end-line="114" selection-end-column="79" />
+                <caret line="114" column="83" lean-forward="false" selection-start-line="114" selection-start-column="83" selection-end-line="114" selection-end-column="83" />
                 <folding>
-                  <marker date="1511814821632" expanded="true" signature="1319:1717" ph="..." />
-                  <marker date="1511814821632" expanded="true" signature="1520:1717" ph="..." />
-                  <marker date="1511814821632" expanded="true" signature="2230:2269" ph="..." />
-                  <marker date="1511814821632" expanded="true" signature="3495:3615" ph="{...}" />
+                  <marker date="1511815005408" expanded="true" signature="1319:1717" ph="..." />
+                  <marker date="1511815005408" expanded="true" signature="1520:1717" ph="..." />
+                  <marker date="1511815005408" expanded="true" signature="2230:2269" ph="..." />
+                  <marker date="1511815005408" expanded="true" signature="3495:3615" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -201,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511779322943</updated>
-      <workItem from="1511779324505" duration="8886000" />
+      <workItem from="1511779324505" duration="8992000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8886000" />
+    <option name="totallyTimeSpent" value="8992000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -257,12 +259,12 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="660">
-            <caret line="114" column="79" lean-forward="false" selection-start-line="114" selection-start-column="79" selection-end-line="114" selection-end-column="79" />
+            <caret line="114" column="83" lean-forward="false" selection-start-line="114" selection-start-column="83" selection-end-line="114" selection-end-column="83" />
             <folding>
-              <marker date="1511814821632" expanded="true" signature="1319:1717" ph="..." />
-              <marker date="1511814821632" expanded="true" signature="1520:1717" ph="..." />
-              <marker date="1511814821632" expanded="true" signature="2230:2269" ph="..." />
-              <marker date="1511814821632" expanded="true" signature="3495:3615" ph="{...}" />
+              <marker date="1511815005408" expanded="true" signature="1319:1717" ph="..." />
+              <marker date="1511815005408" expanded="true" signature="1520:1717" ph="..." />
+              <marker date="1511815005408" expanded="true" signature="2230:2269" ph="..." />
+              <marker date="1511815005408" expanded="true" signature="3495:3615" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
