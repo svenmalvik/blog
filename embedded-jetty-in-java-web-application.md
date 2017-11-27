@@ -92,6 +92,13 @@ public class PingHandler extends HttpServlet {
 We're not done yet. We need to connect the handler with the server and set the context-path:
 ```java
 // App.java
+public static void main( String[] args ) throws Exception {
+    Server server = new Server(8080);
+    setServlet(server);
+    server.start();
+    server.join();
+}
+    
 private static void setServlet(Server server) {
     ServletHandler handler = new ServletHandler();
     handler.addServletWithMapping(PingHandler.class, "/ping");
@@ -115,7 +122,38 @@ Your project-structure should now look similar to this one:
 
 ![Project structure](https://raw.github.com/svenmalvik/blog/master/img/project.PNG)
 
+One thing you need to do right now is to rename the `index.jsp` to `index.html`.
+But we're not done yet. We need to build the project to get the path of the `.war` file
+```shell
+$ mvn clean install
+```
+
+You'll find the `.war` file under `webapp/target/webapp.war`.
+
 ### Add webapp (.war) support into the server modul.
+Navigate now to your `App.java` file and replace `setServlet(server)` with `setWebappServlet(server);`.
+```java
+// App.java
+public static void main( String[] args ) throws Exception {
+    Server server = new Server(8080);
+    setWebappServlet(server);
+    server.start();
+    server.join();
+}
+```
 
+To finish, we need the missing method. In it, we'll use `WebAppContext`-class that 
+at the end just is AbstractServlet:
+```java
+// App.java
+private static void setWebappServlet(Server server) {
+    WebAppContext webapp = new WebAppContext();
+    webapp.setWar(new File("webapp/target/webapp.war").getAbsolutePath());
+    webapp.setContextPath("/web");
+    server.setHandler(webapp);
+}
+```
 
+That was all you needed to do. Start the server from your IDE and browse to `http://localhost:8080/web`.
 
+Sven Malvik - Lead Software Engineer

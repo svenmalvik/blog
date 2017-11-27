@@ -21,13 +21,13 @@
         <entry file="file://$PROJECT_DIR$/embedded-jetty-in-java-web-application.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="682">
-                <caret line="115" column="83" lean-forward="false" selection-start-line="115" selection-start-column="83" selection-end-line="115" selection-end-column="83" />
+              <first_editor relative-caret-position="830">
+                <caret line="158" column="36" lean-forward="false" selection-start-line="158" selection-start-column="36" selection-end-line="158" selection-end-column="36" />
                 <folding>
-                  <marker date="1511815188256" expanded="true" signature="1319:1717" ph="..." />
-                  <marker date="1511815188256" expanded="true" signature="1520:1717" ph="..." />
-                  <marker date="1511815188256" expanded="true" signature="2230:2269" ph="..." />
-                  <marker date="1511815188256" expanded="true" signature="3495:3615" ph="{...}" />
+                  <marker date="1511816126462" expanded="true" signature="1319:1717" ph="..." />
+                  <marker date="1511816126462" expanded="true" signature="1520:1717" ph="..." />
+                  <marker date="1511816126462" expanded="true" signature="2230:2269" ph="..." />
+                  <marker date="1511816126462" expanded="true" signature="3495:3615" ph="{...}" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -203,12 +203,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511779322943</updated>
-      <workItem from="1511779324505" duration="9176000" />
+      <workItem from="1511779324505" duration="10112000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9176000" />
+    <option name="totallyTimeSpent" value="10112000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -258,13 +258,13 @@
     <entry file="file://$PROJECT_DIR$/embedded-jetty-in-java-web-application.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="682">
-            <caret line="115" column="83" lean-forward="false" selection-start-line="115" selection-start-column="83" selection-end-line="115" selection-end-column="83" />
+          <first_editor relative-caret-position="830">
+            <caret line="158" column="36" lean-forward="false" selection-start-line="158" selection-start-column="36" selection-end-line="158" selection-end-column="36" />
             <folding>
-              <marker date="1511815188256" expanded="true" signature="1319:1717" ph="..." />
-              <marker date="1511815188256" expanded="true" signature="1520:1717" ph="..." />
-              <marker date="1511815188256" expanded="true" signature="2230:2269" ph="..." />
-              <marker date="1511815188256" expanded="true" signature="3495:3615" ph="{...}" />
+              <marker date="1511816126462" expanded="true" signature="1319:1717" ph="..." />
+              <marker date="1511816126462" expanded="true" signature="1520:1717" ph="..." />
+              <marker date="1511816126462" expanded="true" signature="2230:2269" ph="..." />
+              <marker date="1511816126462" expanded="true" signature="3495:3615" ph="{...}" />
             </folding>
           </first_editor>
           <second_editor />
