@@ -112,7 +112,7 @@ $ mvn archetype:generate -DgroupId=com.mycompany
 ```
 
 Your project-structure should look similar to this one
-[![Project structure](https://raw.github.com/svenmalvik/blog/master/img/project.PNG)]
+[Project structure](https://raw.github.com/svenmalvik/blog/master/img/project.PNG)
 
 ### Add webapp (.war) support into the server modul.
 
