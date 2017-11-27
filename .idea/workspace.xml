@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1b0c5e1a-c538-4466-aa79-bd5dbd5dcc3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/embedded-jetty-in-java-web-application.md" afterPath="$PROJECT_DIR$/embedded-jetty-in-java-web-application.md" />
-    </list>
+    <list default="true" id="1b0c5e1a-c538-4466-aa79-bd5dbd5dcc3e" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,12 +201,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1511779322943</updated>
-      <workItem from="1511779324505" duration="8815000" />
+      <workItem from="1511779324505" duration="8886000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8815000" />
+    <option name="totallyTimeSpent" value="8886000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
