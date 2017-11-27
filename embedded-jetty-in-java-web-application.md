@@ -10,4 +10,4 @@ The following tutorial is a more of a transcript of my video “...”.
 * Create a maven module for the web application that build the war file.
 * Add webapp (.war) support into the server modul.
 
-[![Embedding Jetty Server in 15 minutes - Quickstart by Sven Malvik](https://raw.github.com/svenmalvik/blog/master/img/front.png.png)](https://youtu.be/rBcwbsEFcVI)
+[![Embedding Jetty Server in 15 minutes - Quickstart by Sven Malvik](https://raw.github.com/svenmalvik/blog/master/img/front.png)](https://youtu.be/rBcwbsEFcVI)
