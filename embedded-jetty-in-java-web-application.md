@@ -156,4 +156,6 @@ private static void setWebappServlet(Server server) {
 
 That was all you needed to do. Start the server from your IDE and browse to `http://localhost:8080/web`.
 
+For [detailed information about the myjetty project](https://github.com/svenmalvik/myjetty) you should visit my github.
+
 Sven Malvik - Lead Software Engineer
