@@ -1,4 +1,4 @@
-# Embedding Jetty Server in 15 minutes - Quickstart by Sven Malvik
+# Embedding Jetty Server
 In the world of microservices and container technologies, 
 we need Java applications to start as standalone units rather than within heavy application servers. 
 This post will show how to embed the Jetty Server within a Java application. 
