@@ -1,4 +1,4 @@
-## [Embedded Jetty Server in a Java Web Application](embedded-jetty-in-java-web-application)
+## [Embedding Jetty Server in a Java Web Application](embedding-jetty-in-java-web-application)
 
 In the world of microservices and container technologies, 
 we need Java applications to start as standalone units rather than 
