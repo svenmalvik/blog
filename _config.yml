@@ -1,3 +1,7 @@
 theme: minima
 title: Sven Malvik - Java-Blog
 Description: This blog is about Java and DevOps
+author: Sven Malvik
+email: sven@malvik.de
+#header_pages:
+# - about.html
