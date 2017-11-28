@@ -1,4 +1,4 @@
-## Embedding Jetty Server in 15 minutes - Quickstart by Sven Malvik
+# Embedding Jetty Server in 15 minutes - Quickstart by Sven Malvik
 
 In the world of microservices and container technologies, 
 we need Java applications to start as standalone units rather than within heavy application servers. 
@@ -8,14 +8,14 @@ It will load a war file that is part of the project and that lives as a maven su
 The following tutorial is a more of a transcript of my video "**Embedding Jetty Server in 15 minutes.**". 
 [![Embedding Jetty Server in 15 minutes - Quickstart by Sven Malvik](https://raw.github.com/svenmalvik/blog/master/img/youtube.png)](https://youtu.be/rBcwbsEFcVI)
 
-### Agenda
+## Agenda
 * Create a maven project.
 * Create a maven module for the server.
 * Add a servlet.
 * Create a maven module for the web application that build the war file.
 * Add webapp (.war) support into the server module.
 
-### Create the maven project
+## Create the maven project
 The first job you've to do is to open your IDE and create a new maven project. 
 In my case I'm going for maven 3.3.9. When done you might notice a source (src) folder 
 that you can delete since we're going for a multi module project. 
@@ -37,7 +37,7 @@ You don't need to modify the **root pom.xml** yet.
 </project>
 ```
 
-### Create a maven module for the server.
+## Create a maven module for the server.
 Now, add a new maven modul either with help from your IDE or from **command line**:
 ```shell
 $ cd YOUR_PROJECT
@@ -68,7 +68,7 @@ public static void main(String[] args) throws Exception {
 }
 ```
 
-### Add a servlet.
+## Add a servlet.
 The next step is more about getting an understanding about what you're doing. 
 We'll add a simple servlet that will respond to our requests.
 This is done by a handler that you will set for the server-object. 
@@ -108,7 +108,7 @@ private static void setServlet(Server server) {
 
 That's basically it. The next step will be about responding from a `.war` file
 
-### Create a maven module for the web application that build the war file.
+## Create a maven module for the web application that build the war file.
 Again, we need to create a maven module. Run this command from within your shell or use your IDE:
 ```shell
 $ cd YOUR_PROJECT
@@ -130,7 +130,7 @@ $ mvn clean install
 
 You'll find the `.war` file under `webapp/target/webapp.war`.
 
-### Add webapp (.war) support into the server modul.
+## Add webapp (.war) support into the server modul.
 Navigate now to your `App.java` file and replace `setServlet(server)` with `setWebappServlet(server);`.
 ```java
 // App.java
@@ -154,6 +154,7 @@ private static void setWebappServlet(Server server) {
 }
 ```
 
+## Conclusion
 That was all you needed to do. Start the server from your IDE and browse to `http://localhost:8080/web`.
 
 For [**detailed information about the myjetty project**](https://github.com/svenmalvik/myjetty) you should visit my github.
