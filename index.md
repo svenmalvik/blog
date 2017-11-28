@@ -1,5 +1,3 @@
-# Sven Malvik - Java and DevOps
-
 ## [Embedded Jetty Server in a Java Web Application](embedded-jetty-in-java-web-application)
 
 In the world of microservices and container technologies, 
