@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b0c5e1a-c538-4466-aa79-bd5dbd5dcc3e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jetty-jersey-combo.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.md" afterPath="$PROJECT_DIR$/index.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jetty-jersey-combo.md" afterPath="$PROJECT_DIR$/jetty-jersey-combo.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,7 +21,7 @@
         <entry file="file://$PROJECT_DIR$/embedding-jetty-in-java-web-application.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="742">
+              <first_editor relative-caret-position="3476">
                 <caret line="158" column="0" lean-forward="false" selection-start-line="158" selection-start-column="0" selection-end-line="160" selection-end-column="42" />
                 <folding>
                   <marker date="1511854405621" expanded="true" signature="1273:1671" ph="..." />
@@ -52,7 +50,7 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="264">
-                <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+                <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -64,15 +62,15 @@
         <entry file="file://$PROJECT_DIR$/jetty-jersey-combo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="280">
-                <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+              <first_editor relative-caret-position="88">
+                <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
                 <folding>
-                  <marker date="1511989900762" expanded="true" signature="510:654" ph="..." />
-                  <marker date="1511989900762" expanded="true" signature="667:822" ph="..." />
-                  <marker date="1511989900762" expanded="true" signature="810:822" ph="..." />
-                  <marker date="1511989900762" expanded="true" signature="2279:2334" ph="@{...}" />
-                  <marker date="1511989900762" expanded="true" signature="2364:2375" ph=" { " />
-                  <marker date="1511989900762" expanded="true" signature="2405:2411" ph=" }" />
+                  <marker date="1511990335450" expanded="true" signature="514:658" ph="..." />
+                  <marker date="1511990335450" expanded="true" signature="671:826" ph="..." />
+                  <marker date="1511990335450" expanded="true" signature="814:826" ph="..." />
+                  <marker date="1511990335450" expanded="true" signature="2283:2338" ph="@{...}" />
+                  <marker date="1511990335450" expanded="true" signature="2368:2379" ph=" { " />
+                  <marker date="1511990335450" expanded="true" signature="2409:2415" ph=" }" />
                 </folding>
               </first_editor>
               <second_editor />
@@ -96,8 +94,8 @@
         <option value="$PROJECT_DIR$/embedded-jetty-in-java-web-application.md" />
         <option value="$PROJECT_DIR$/embedding-jetty-in-java-web-application.md" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/jetty-jersey-combo.md" />
         <option value="$PROJECT_DIR$/index.md" />
+        <option value="$PROJECT_DIR$/jetty-jersey-combo.md" />
       </list>
     </option>
   </component>
@@ -549,7 +547,7 @@
       <option name="presentableId" value="Default" />
       <updated>1511779322943</updated>
       <workItem from="1511779324505" duration="13490000" />
-      <workItem from="1511987977243" duration="2148000" />
+      <workItem from="1511987977243" duration="2344000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1511990131683</created>
@@ -562,11 +560,11 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15638000" />
+    <option name="totallyTimeSpent" value="15834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -582,7 +580,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09947917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.09947917" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -656,10 +654,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="264">
+            <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/embedding-jetty-in-java-web-application.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="742">
+          <first_editor relative-caret-position="3476">
             <caret line="158" column="0" lean-forward="false" selection-start-line="158" selection-start-column="0" selection-end-line="160" selection-end-column="42" />
             <folding>
               <marker date="1511854405621" expanded="true" signature="1273:1671" ph="..." />
@@ -672,29 +681,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="264">
-            <caret line="12" column="33" lean-forward="false" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jetty-jersey-combo.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="280">
-            <caret line="57" column="0" lean-forward="true" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+          <first_editor relative-caret-position="88">
+            <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
             <folding>
-              <marker date="1511989900762" expanded="true" signature="510:654" ph="..." />
-              <marker date="1511989900762" expanded="true" signature="667:822" ph="..." />
-              <marker date="1511989900762" expanded="true" signature="810:822" ph="..." />
-              <marker date="1511989900762" expanded="true" signature="2279:2334" ph="@{...}" />
-              <marker date="1511989900762" expanded="true" signature="2364:2375" ph=" { " />
-              <marker date="1511989900762" expanded="true" signature="2405:2411" ph=" }" />
+              <marker date="1511990335450" expanded="true" signature="514:658" ph="..." />
+              <marker date="1511990335450" expanded="true" signature="671:826" ph="..." />
+              <marker date="1511990335450" expanded="true" signature="814:826" ph="..." />
+              <marker date="1511990335450" expanded="true" signature="2283:2338" ph="@{...}" />
+              <marker date="1511990335450" expanded="true" signature="2368:2379" ph=" { " />
+              <marker date="1511990335450" expanded="true" signature="2409:2415" ph=" }" />
             </folding>
           </first_editor>
           <second_editor />

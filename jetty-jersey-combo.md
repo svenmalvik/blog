@@ -1,7 +1,7 @@
 # REST with Jersey and Jetty as standalone application
 
-In a previous blog entry I wrote about how you run and setup your [Java web application as 
-a standalone application with Jetty](embedding-jetty-in-java-web-application) 
+In a previous blog entry I wrote about how you run and setup your [**Java web application as 
+a standalone application with Jetty**](embedding-jetty-in-java-web-application) 
 and a `.war` file with maven. In this blog entry I want to show how you can integrate a RESTful 
 interface with Jersey into your Jetty standalone application.
 
