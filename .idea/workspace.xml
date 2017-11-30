@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1b0c5e1a-c538-4466-aa79-bd5dbd5dcc3e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jetty-jersey-combo.md" afterPath="$PROJECT_DIR$/jetty-jersey-combo.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/impressum.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -58,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jetty-jersey-combo.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="jetty-jersey-combo.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jetty-jersey-combo.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -72,6 +73,19 @@
                   <marker date="1511990335450" expanded="true" signature="2368:2379" ph=" { " />
                   <marker date="1511990335450" expanded="true" signature="2409:2415" ph=" }" />
                 </folding>
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="impressum.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/impressum.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="786">
+                <caret line="67" column="10" lean-forward="false" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+                <folding />
               </first_editor>
               <second_editor />
             </state>
@@ -96,6 +110,7 @@
         <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/jetty-jersey-combo.md" />
+        <option value="$PROJECT_DIR$/impressum.md" />
       </list>
     </option>
   </component>
@@ -547,7 +562,7 @@
       <option name="presentableId" value="Default" />
       <updated>1511779322943</updated>
       <workItem from="1511779324505" duration="13490000" />
-      <workItem from="1511987977243" duration="2344000" />
+      <workItem from="1511987977243" duration="3266000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1511990131683</created>
@@ -560,7 +575,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15834000" />
+    <option name="totallyTimeSpent" value="16756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -694,6 +709,17 @@
               <marker date="1511990335450" expanded="true" signature="2368:2379" ph=" { " />
               <marker date="1511990335450" expanded="true" signature="2409:2415" ph=" }" />
             </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/impressum.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="786">
+            <caret line="67" column="10" lean-forward="false" selection-start-line="67" selection-start-column="10" selection-end-line="67" selection-end-column="10" />
+            <folding />
           </first_editor>
           <second_editor />
         </state>
