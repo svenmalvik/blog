@@ -1,4 +1,4 @@
-# Impressum
+# Impressum (deutsch, english)
 
 Angaben gemäß § 5 TMG
 
