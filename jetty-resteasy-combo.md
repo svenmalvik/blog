@@ -112,7 +112,7 @@ That's why we also tell where those classes are to find - in `AppResourceConfig`
 
 ```java
 // App.java
-private static Handler getRESTeasyHandler() {
+private static Handler getRESTEasyHandler() {
     ServletContextHandler handler = 
         new ServletContextHandler(ServletContextHandler.NO_SESSIONS);
     
@@ -130,7 +130,7 @@ Finally, we set the handler (the return value) to the server.
     public static void main( String[] args ) throws Exception {
         Server server = new Server(8080);
         
-        server.setHandler(getRESTeasyHandler());
+        server.setHandler(getRESTEasyHandler());
         
         server.start();
         server.join();
