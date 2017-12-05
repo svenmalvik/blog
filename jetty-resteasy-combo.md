@@ -71,6 +71,7 @@ Before we mess around the server-setup, I suggest that we implement the endpoint
 answer all requests at first. 
 
 ```java
+// Endpoint.java
 @Path("api")
 public class Endpoint {
 
@@ -87,6 +88,7 @@ We'are not finished yet. We need a container that holds all of our endpoint-clas
 got one. We bame it `AppResourceConfig`.
  
 ```java
+// AppResourceConfig.java
 public class AppResourceConfig extends Application {
 
     Set<Class<?>> classes = new HashSet<Class<?>>();
