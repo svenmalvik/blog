@@ -1,4 +1,4 @@
-# Embedding Jetty with RESTEasy- Java
+# Embedding Jetty with RESTEasy
 
 In this blog post I will explain how you would embed the Jetty server 
 together with RESTEasy in a single standalone Java application. 
