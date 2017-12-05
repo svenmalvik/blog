@@ -127,14 +127,14 @@ private static Handler getRESTEasyHandler() {
 Finally, we set the handler (the return value) to the server.
 ```java
 // App.java
-    public static void main( String[] args ) throws Exception {
-        Server server = new Server(8080);
-        
-        server.setHandler(getRESTEasyHandler());
-        
-        server.start();
-        server.join();
-    }
+public static void main( String[] args ) throws Exception {
+    Server server = new Server(8080);
+    
+    server.setHandler(getRESTEasyHandler());
+    
+    server.start();
+    server.join();
+}
 ```
 
 ## Conclusion
