@@ -17,35 +17,39 @@ I will explain all 3 in more detail now. So, stay tuned.
 Of course, the first step on your journey becoming a great coder will be to 
 learn the concepts and the syntax of the language of your choice. 
 Maybe it will be Java you want to start with first. 
-When I start learning a new language I always start by programming helloWorld.
-HelloWorld the most simple program you can implement. Start by watching some 
-Java introduction videos, read the first chapter of Java for Dummies and 
-start learning the syntax of the language. It's the first thing you need to manage.
+Whenever I start learning a new language, I always start by programming helloWorld.
+HelloWorld is the most simple program you can implement. Start by watching some 
+Java introduction videos as well, read the first chapters of Java for Dummies. 
+It's not hard to do that. Actually, it's very simple as long as you start going small steps
+at the beginning.
 
 ## Number 3: Third Party Libraries
 You can do a lot with those libraries that come with Java. In Java 9 you got modules.
  Learn those modules and work with them. Understand what they do and when to use them.
 Move on and learn also third party libraries. Jetty, Jersey, RESTEasy, Mockito, Logback, spring, etc.
 The list is endless. It's important to spend as much time getting experience with as many libraries as
-possible.
+possible. But why do you need them? Well, to save time inventing the wheel again and again.
 
 ## Number 2: Design Patterns
-What are [Design Patterns](http://java-design-patterns.com/) you might ask. Wikipedia says that a software design pattern 
+What are [Design Patterns](http://java-design-patterns.com/) you might ask. 
+Wikipedia says that a software design pattern 
 is a general reusable solution to a commonly occurring problem and so on. In simple words, 
 it means that you will spend less time thinking about how to solve an implementation task.
 Others have already worked on similar tasks. There are plenty of design patterns. Start learning
-the "gang of four"-design patterns first. They are the most common ones.
+the "gang of four"-design patterns first. They are the most common ones and will not only 
+save you time coding, design patterns will also make sure that you deliver in great quality
+which means that others can understand your code, learn from you and also maintain your code.
 
 ## Number 1: 10k Principle
 This one is my absolute favorite. You can waste all the previous sections and focus entirely on
 this one. You will become one of the best programmers, at least in your environment. 
-The principle holds that 10,000 hours of "deliberate practice" are needed to even become 
+This principle holds that 10,000 hours of "deliberate practice" are needed to even become 
 world-class - in any field. 8 hours a day, 7 days a week and 12 months a year leads 
-to 3 years and 5 months of hard practice. It's manageable, if you got time. As I said, it's all 
+to 3 years and 5 months of hard practice. It's manageable, if you got the time. As I said, it's all 
 about prioritization. But even if you don't have that much time practicing, be concise about it.
 Practice is everything.
 
 ## Conclusion
 "How To Learn To Code And Becoming The Best" describes what I think you should do reaching your goal.
-Even if you just do some of the described sections, you will learn to code, and you will surly
-be a good programmer too. Just remember one thing: Spend time practicing!
+Even if you just do some of the described sections, you will being able to code, and you will surly
+become a good programmer too. Just remember one thing: Spend time practicing!
