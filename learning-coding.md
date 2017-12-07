@@ -10,8 +10,8 @@ Like always, it's what you prioritize and how you prioritize.
 Let's now start to talk about what I think you should do to not just learn a computer 
 language but also to become great at it. 
  
-There're 3 areas you really need to focus on. 
-I will explain all 3 in more detail now. So, stay tuned.
+There're 4 areas you really need to focus on. 
+I will explain all 4 in more detail now. So, stay tuned.
 
 ## Number 4: The Language
 Of course, the first step on your journey becoming a great coder will be to 
