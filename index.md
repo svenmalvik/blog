@@ -1,5 +1,12 @@
 # Home
 
+## [How To Learn To Code And Becoming The Best.](learning-coding)
+Everybody can learn how to code. 
+It's learning a simple language that you won't even need to speak. 
+You'll just write it at your own pace. 
+The real challenge will be to become great 
+or better than others that you work together with.
+
 ## [Embedding Jetty with RESTEasy](jetty-resteasy-combo)
 I will explain how you would embed the Jetty server 
 together with RESTEasy in a single standalone Java application. 
