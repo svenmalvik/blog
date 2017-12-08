@@ -1,5 +1,11 @@
 <header class="site-header" role="banner">
 <!-- sven.malvik.de -->
+    <style>
+        .site-nav {
+            line-height: 20px;
+        }
+    </style>
+    
     <div class="wrapper">
         {% assign default_paths = site.pages | map: "path" %}
         {% assign page_paths = site.header_pages | default: default_paths %}
