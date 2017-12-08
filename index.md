@@ -1,5 +1,11 @@
 # Home
 
+## [Top 5 Java Related Technologies.](top-java-tech)
+The best Java developers I have worked together with, all have amazing understanding about
+these 5 technologies. Git, Maven, Regex, Jenkins, and ssl handling are all important, and 
+chances are super high that you will get in touch with some of these in your next Java project - 
+I guess you already have. 
+   
 ## [How To Learn To Code And Becoming The Best.](learning-coding)
 Everybody can learn how to code. 
 It's learning a simple language that you won't even need to speak. 
