@@ -49,3 +49,6 @@ That were my Top 5 Java Related Technologies. My wish is that many more Java dev
 learn and respect at least Git. Git is my number one technology every Java developer 
 should be able to manage. But also Maven and the others will shoot you to the top of 
 the best Java develops.
+
+[**Subscribe to my YouTube channel**](https://www.youtube.com/user/svenmalvik)
+and you will get all my Java and DevOps videos. Hope to see you there!

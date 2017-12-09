@@ -33,3 +33,7 @@ with javadoc and asciidoc, and make your generated documentation part of your Je
 In a later blog I will explain in detail how you can generate a textbook of a Java project from
 GitHub and sell it on Amazon. [Subscribe to my YouTube channel](https://www.youtube.com/user/svenmalvik)
 and you will soon get the video on how to generate a textbook from a Java project and sell it on Amazon.
+
+
+[**Subscribe to my YouTube channel**](https://www.youtube.com/user/svenmalvik)
+and you will get all my Java and DevOps videos. Hope to see you there!

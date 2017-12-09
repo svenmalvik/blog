@@ -159,3 +159,6 @@ That was all you needed to do. Start the server from your IDE and browse to `htt
 For [**detailed information about the myjetty project**](https://github.com/svenmalvik/myjetty) you should visit my github.
 
 _**Sven Malvik - Lead Software Engineer**_
+
+[**Subscribe to my YouTube channel**](https://www.youtube.com/user/svenmalvik)
+and you will get all my Java and DevOps videos. Hope to see you there!

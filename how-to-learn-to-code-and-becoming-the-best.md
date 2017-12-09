@@ -53,3 +53,6 @@ Practice is everything.
 "How To Learn To Code And Becoming The Best" describes what I think you should do reaching your goal.
 Even if you just do some of the described sections, you will being able to code, and you will surly
 become a good programmer too. Just remember one thing: Spend time practicing!
+
+[**Subscribe to my YouTube channel**](https://www.youtube.com/user/svenmalvik)
+and you will get all my Java and DevOps videos. Hope to see you there!
