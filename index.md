@@ -1,5 +1,11 @@
 # Home
 
+## [Why Continuous Documentation Is Cool.](why-continuous-documentation-is-cool)
+Selling solution to a problem should always include documentation. Documentation that is fun to read.
+It's why it must and will become part of Continuous Delivery. But how can we do that? 
+Until now it was almost impossible. Maybe because it was boring, not technical at all.
+Time has past, and there have come great solutions.
+
 ## [Top 5 Java Related Technologies.](top-java-technologies)
 The best Java developers I have worked together with, all have amazing understanding about
 these 5 technologies. Git, Maven, Regex, Jenkins, and ssl handling are all important, and 

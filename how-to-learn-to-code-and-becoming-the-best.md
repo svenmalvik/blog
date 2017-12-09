@@ -1,6 +1,6 @@
 # How To Learn To Code And Becoming The Best.
 
-Everybody can learn how to code. 
+_Everybody can learn how to code. 
 It's learning a simple language that you won't even need to speak. 
 You'll just write it at your own pace. 
 The real challenge will be to become great 
@@ -8,7 +8,7 @@ or better than others that you work together with. How you do that depends on
 how much time you want to spend coding and learning. 
 Like always, it's what you prioritize and how you prioritize.
 Let's now start to talk about what I think you should do to not just learn a computer 
-language but also to become great at it. 
+language but also to become great at it._ 
  
 There're 4 areas you really need to focus on. 
 I will explain all 4 in more detail now. So, stay tuned.

@@ -1,8 +1,8 @@
 # Embedding Jetty Server
-In the world of microservices and container technologies, 
+_In the world of microservices and container technologies, 
 we need Java applications to start as standalone units rather than within heavy application servers. 
 This post will show how to embed the Jetty Server within a Java application. 
-It will load a war file that is part of the project and that lives as a maven sub-module.
+It will load a war file that is part of the project and that lives as a maven sub-module._
 
 The following tutorial is a more of a transcript of my video "**Embedding Jetty Server in 15 minutes.**". 
 [![Embedding Jetty Server in 15 minutes - Quickstart by Sven Malvik](https://raw.github.com/svenmalvik/blog/master/img/youtube.png)](https://youtu.be/rBcwbsEFcVI)

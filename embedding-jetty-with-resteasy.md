@@ -1,9 +1,8 @@
 # Embedding Jetty with RESTEasy
-
-In this blog post I will explain how you would embed the Jetty server 
+_In this blog post I will explain how you would embed the Jetty server 
 together with RESTEasy in a single standalone Java application. 
 The project uses Maven, and it is available to you on my GitHub-account.
-[Download Jetty-RESTEasy-Combo](https://github.com/svenmalvik/jetty-resteasy-combo).
+[Download Jetty-RESTEasy-Combo](https://github.com/svenmalvik/jetty-resteasy-combo)._
 
 ## Agenda
 * Create a maven project.

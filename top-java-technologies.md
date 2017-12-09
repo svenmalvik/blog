@@ -1,20 +1,21 @@
 # Top 5 Java Related Technologies.
-Here are the top 5 technologies that all great Java developers have experience with.
+_Here are the top 5 technologies that all great Java developers have experience with.
 The best Java developers I have worked together with, all have amazing understanding about
 these 5 technologies. Git, Maven, Regex, Jenkins, and ssl handling are all important, and 
 chances are super high that you will get in touch with some of these in your next Java project - 
-I guess you already have.
+I guess you already have._
 
 ## Git
 Git is a version control system. It keeps track of all the changes that are made in your code. It 
 knows what has changed, when something was changed, and by whom the change was made.
 It's a must have tool for every software project, small or big. Truth is, Git is more and more
-used also by people that want to keep track of recipes, books, documents, and data sets.
+used also by people that want to keep track of recipes, books, documents, and data sets. You
+must get familiar with Git if you don't already have. 
 
 ## Maven
 Many will probably disagree with this one: "Maven? no way, Gradle is much better ...".
 You're maybe right. The point is that Maven is used in many projects all over the world.
-But what is Maven?It's a "build management tool". Maven is for defining how your java files 
+But what is Maven? It's a "build management tool". Maven is for defining how your java files 
 get compiled to classes, packaged into .jar, .war or .ear files, and many others sorts of 
 tasks that are required to build your project. Maven makes life easier. But as always, there 
 are alternatives.
@@ -22,11 +23,11 @@ are alternatives.
 ## Regular Expressions - Regex
 A regular expression is a special text string for describing a search pattern. 
 You can think of regular expressions as wildcards on steroids. It's often used in Java projects 
-for validating, finding, extracting and replacing text elements. You should really become good 
+for validating, finding, extracting and replacing text elements. You should really become good at
 creating regular expressions. There're not many Java developers that are good at it.
-If you are the only one in your project, yoy might be the hero one day. At least, it can save
-you a lot of time. Regular expressions are also very easy to learn. There's zero setup 
-and you can also train online.
+If you are the only one in your project, you might be the hero in your department. 
+At least, it can save you a lot of time. Regular expressions are also very easy to learn. 
+There's zero setup and you can also train online.
 
 ## Jenkins
 Once you're finished coding, you might want to see your product in production. But wait,
