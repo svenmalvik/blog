@@ -1,5 +1,10 @@
 # Home
 
+## [The beauty of continuous documentation.](continuously-documentation)
+For many, writing documentation is as exciting as traveling collectively in the morning; 
+we'd rather avoid it. Maybe it's because we think no one will ever read what we're writing. 
+We think so when we sit down and write, demotivated and tired, so what we write is of course boring and dry.
+
 ## [Why Continuous Documentation Is Cool.](why-continuous-documentation-is-cool)
 Selling solution to a problem should always include documentation. Documentation that is fun to read.
 It's why it must and will become part of Continuous Delivery. But how can we do that? 
