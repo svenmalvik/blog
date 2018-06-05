@@ -1,4 +1,4 @@
-# The beauty of continuous documentation.
+# The Beauty of Continuous Documentation.
 For many, writing documentation is as exciting as traveling collectively in the morning; we'd rather avoid it. Maybe it's because we think no one will ever read what we're writing. We think so when we sit down and write, demotivated and tired, so what we write is of course boring and dry.
 
 

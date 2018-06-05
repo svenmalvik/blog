@@ -1,6 +1,11 @@
 # Home
 
-## [The beauty of continuous documentation.](continuously-documentation)
+## [Docker & Its Friends](docker-never-comes-alone)
+When we start a Docker project, many other technologies are often involved, 
+technologies that we might not have considered at the start. 
+In this post I will tell about my views about Docks, and what to think about before starting with Docker.
+
+## [The Beauty of Continuous Documentation.](continuously-documentation)
 For many, writing documentation is as exciting as traveling collectively in the morning; 
 we'd rather avoid it. Maybe it's because we think no one will ever read what we're writing. 
 We think so when we sit down and write, demotivated and tired, so what we write is of course boring and dry.
