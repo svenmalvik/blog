@@ -1,5 +1,5 @@
-# Docker & Friends.
-When we start a Docker project, many other technologies are often involved, technologies that we might not have considered at the start. In this post I will tell about my views about Docks, and what to think about before starting with Docker.
+# Docker And Friends.
+_When we start a Docker project, many other technologies are often involved, technologies that we might not have considered at the start. In this post I will tell about my views about Docks, and what to think about before starting with Docker._
 
 ## Docker for private use
 A few years ago I wrote a Python script that would make sure I got more Twitter followers. The script had some addictions to modules that I installed with pip - a packet manager for Python. I remember that the installation of Python and beep was bumpy. The Ubuntu version I used came with Python 2, but I needed Python 3 and a similar version of the pip. It took some time before everything was in place, just because I had not used these technologies before. I put the script and addictions into a Docker image. This way I avoid installing again later.

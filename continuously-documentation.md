@@ -1,5 +1,5 @@
 # The Beauty of Continuous Documentation.
-For many, writing documentation is as exciting as traveling collectively in the morning; we'd rather avoid it. Maybe it's because we think no one will ever read what we're writing. We think so when we sit down and write, demotivated and tired, so what we write is of course boring and dry.
+_For many, writing documentation is as exciting as traveling collectively in the morning; we'd rather avoid it. Maybe it's because we think no one will ever read what we're writing. We think so when we sit down and write, demotivated and tired, so what we write is of course boring and dry._
 
 
 I have long been interested in publishing a book. A few years ago, I interviewed Nilanjan Raychaudhuri, the author of "Scala in Action". We had lunch together in the cafeteria at Nordea. He led a Scala workshop I attended. "How much time did you spend on writing this book?" I asked. "About two years. You need to have great discipline," he replied. Joe, I knew that writing a book is challenging, but hearing it directly from someone who has published a book that I have read and, as many others read, it was exciting! Perhaps he can tell how I'm getting bored most quickly, can do the same to write a book. I may be able to write 3, 4 months before I get bored.
