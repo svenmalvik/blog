@@ -3,5 +3,6 @@ title: Sven Malvik - Azure Blog
 Description: This blog is about Azure
 author: Sven Malvik
 email: sven@malvik.de
+show_downloads: false
 header_pages:
 # - about.html
