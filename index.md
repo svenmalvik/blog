@@ -1,5 +1,3 @@
-# Home
-
 ## [Docker & Its Friends](docker-never-comes-alone)
 When we start a Docker project, many other technologies are often involved, 
 technologies that we might not have considered at the start. 
